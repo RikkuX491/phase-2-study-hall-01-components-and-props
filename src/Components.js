@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 /*
  * Lecture #1 - Topic 2: Components
@@ -9,7 +9,7 @@ import React from 'react'
  */
 
 function Components(){
-    
+
 }
 
 export default Components;

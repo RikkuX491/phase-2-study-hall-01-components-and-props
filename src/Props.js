@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 /*
  * Lecture #1 - Topic 3: Props
@@ -8,7 +8,7 @@ import React from 'react'
  */
 
 function Props(){
-    
+
 }
 
 export default Props;

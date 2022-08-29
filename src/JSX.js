@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 /*
  * Lecture #1 - Topic 1: JSX
