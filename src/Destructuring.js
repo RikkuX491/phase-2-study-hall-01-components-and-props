@@ -11,7 +11,7 @@ import React from 'react';
 function Destructuring({students, instructor}){
 
     const studentLIs = students.map(student => {
-        return <li>{student.name}</li>
+        return <li key={student.id}>{student.name}</li>
     })
 
     return (
