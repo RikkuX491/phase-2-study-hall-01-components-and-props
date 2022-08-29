@@ -1,4 +1,5 @@
 import React from 'react';
+import Props from './Props';
 
 /*
  * Lecture #1 - Topic 2: Components
@@ -9,7 +10,11 @@ import React from 'react';
  */
 
 function Components(){
-
+    return (
+        <header className="App-header">
+            <Props />
+        </header>
+    );
 }
 
 export default Components;
